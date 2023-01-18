@@ -1,0 +1,110 @@
+body{ background-color: blue;
+font-family:Poppins;}
+header{background-color: aquamarine;
+/*position: fixed;
+width: 100%;
+top: 0;*/
+}
+footer{background-color: blueviolet;}
+video{width: 10%;
+    height:10%;}
+    main{padding: 50px;
+    margin-top: 5px   ;}
+    
+        pre span{ color:rgb(138, 255, 80)}
+        table
+        ,td{border: 2px solid green;
+            border-collapse:collapse;
+        }
+        table{width: 40%;
+        margin: 50 50;}
+        td{padding-left: 4px;}
+        thead{background-color: green;
+        color:white;}
+        *{border: 2px
+            ; padding: 0;}
+       /*color names
+       rgb=red,blue,green
+       rgb=0-255,0-255,0-255
+       hexa decimal=#00ff00
+       */
+       
+       .box{border-left:12px groove yellow;
+        border-right:12px groove black;
+        border-top:12px groove green;
+        border-bottom:12px groove red;
+    margin: 25px;
+width: 300px;
+height: 300px;
+text-align: center;
+line-height: 350px;
+font-size:120px;
+background-color: red;
+border-radius: 50%;
+display: inline-block;} 
+
+#box1{ background-color:green ;}
+#box2{ background-color:yellow ;}
+#box3{ background-color:red ;}
+#box4{ background-color:blueviolet ;}
+#box5{ background-color:gray ;}
+.selam{position:relative;
+    height: 600px;
+background-color: black;
+}
+.b{ 
+    position:absolute;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    border: 5px;
+
+    text-align: center;
+    line-height: 350px;
+    font-size:120px;
+    background-color: red;
+    display: inline-block;} 
+    
+#b1{ background-color:green ;
+left:0;
+top: 0;}
+#b2{ background-color:yellow ;
+left: 0;
+bottom:0}
+#b3{ background-color:red ;right: 0;
+top: 0;}
+#b4{ background-color:darkorchid;
+    right: 0;
+bottom: 0;}
+.sem{background-color: blueviolet;
+    position: relative;
+height: 300
+;
+width: 300;
+}
+.s{ 
+
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+   
+
+    text-align: center;
+    line-height: 100px;
+    font-size:10px;
+    background-color: red;
+    display: inline-block;} 
+    
+#s1{ background-color:green ;
+        left:0;
+        top:0;
+    z-index: 3px;}
+#s2{ background-color:yellow ;
+left: 98;
+top:0;
+z-index: 1px;}
+#s3{ background-color:red ;
+    left: 198;
+    top:0;
+    z-index: 2px;}
+
